@@ -39,5 +39,5 @@ Data Collection → Data Cleaning → LSTM Training → Prediction → Portfolio
 • Web interface  
 • Reinforcement learning portfolio strategy
 
-## !!!
+## Notice
 Full trained models are not included due to GitHub storage limits.
