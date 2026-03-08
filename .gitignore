@@ -1,0 +1,8 @@
+models/*
+!models/example_lstm_model.keras
+!models/example_scaler.pkl
+
+*.log
+*.csv
+__pycache__/
+.ipynb_checkpoints/
